@@ -1,0 +1,35 @@
+_repo: The-Shadow-of-a-Sin_42320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brame, Charlotte M.
+    aliases:
+    - Brame, Charlotte Mary
+    - Clay, Bertha M.
+    - Braeme, Charlotte Monica
+    birthdate: 1836
+    deathdate: 1884
+    gutenberg_agent_id: '878'
+    url: http://www.gutenberg.org/2009/agents/878
+description: Shadows figure heavily in romance writer Charlotte M. Brame's body of
+  work. Deeply concerned with the morality of romance and interpersonal relationships,
+  Brame displays an acute understanding of the way that past misdeeds can cast a pall
+  over even the most pure and innocent love and cause inner conflict. ""The Shadow
+  of a Sin"" embodies Brame's remarkable ability to create three-dimensional, deeply
+  human characters for whom romance and remorse are eternally intertwined.
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Shadow of a Sin
+url: http://www.gutenberg.org/ebooks/42320
